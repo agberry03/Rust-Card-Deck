@@ -21,7 +21,7 @@
 {Make a list of websites that you found helpful in this project}
 
 - [Rust Language Documentation & Tutorial](https://www.rust-lang.org/learn)
-- [Web Site Name](http://url.link.goes.here)
+- [Rust Video Tutorial](https://www.youtube.com/watch?v=ygL_xcavzQ4)
 
 # Future Work
 
