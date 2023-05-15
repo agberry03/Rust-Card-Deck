@@ -22,6 +22,9 @@
 
 - [Rust Language Documentation & Tutorial](https://www.rust-lang.org/learn)
 - [Rust Video Tutorial](https://www.youtube.com/watch?v=ygL_xcavzQ4)
+- [deckofcards crate on crates.io](https://crates.io/crates/deckofcards)
+- [Documentation of deckofcards crate](https://docs.rs/deckofcards/latest/deckofcards/)
+- []()
 
 # Future Work
 
