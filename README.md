@@ -24,7 +24,7 @@
 - [Rust Video Tutorial](https://www.youtube.com/watch?v=ygL_xcavzQ4)
 - [deckofcards crate on crates.io](https://crates.io/crates/deckofcards)
 - [Documentation of deckofcards crate](https://docs.rs/deckofcards/latest/deckofcards/)
-- []()
+- [More information on deckofcards](https://lib.rs/crates/deckofcards)
 
 # Future Work
 
