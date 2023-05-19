@@ -2,35 +2,33 @@
 
 {Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
 
-{Provide a description of the software that you wrote to demonstrate the Rust language.}
+I wrote a program that runs a game of Black Jack between two players.
+The players start with 2 cards, and can hit for more until they pass, get Black Jack,
+or go above Black Jack. Once both players pass, their final scores are compared and a
+winner is declared.
 
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
+I wrote this software as an introduction to how the Rust programming language works
+and to become more comfortable with using the Rust language.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used Visual Studio Code as my code editor, with Rust extensions installed.
 
-{Describe the programming language that you used and any libraries.}
+I used the Rust language and the deckofcards Rust Crate.
 
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
 
 - [Rust Language Documentation & Tutorial](https://www.rust-lang.org/learn)
 - [Rust Video Tutorial](https://www.youtube.com/watch?v=ygL_xcavzQ4)
 - [deckofcards crate on crates.io](https://crates.io/crates/deckofcards)
 - [Documentation of deckofcards crate](https://docs.rs/deckofcards/latest/deckofcards/)
 - [More information on deckofcards](https://lib.rs/crates/deckofcards)
-- [Tip for input comparison on stackoverflow](https://stackoverflow.com/questions/38171684/comparing-a-string-against-a-string-read-from-input-does-not-match-in-rust)
+- [Tip for input comparison found on stackoverflow](https://stackoverflow.com/questions/38171684/comparing-a-string-against-a-string-read-from-input-does-not-match-in-rust)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
 - Make a method for the repetitive code in the main method.
-- Item 2
-- Item 3
+- Add other simple card games to the program.
+- Make the program more structured by separating function into their own files and classes.
