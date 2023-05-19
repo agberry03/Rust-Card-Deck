@@ -25,11 +25,12 @@
 - [deckofcards crate on crates.io](https://crates.io/crates/deckofcards)
 - [Documentation of deckofcards crate](https://docs.rs/deckofcards/latest/deckofcards/)
 - [More information on deckofcards](https://lib.rs/crates/deckofcards)
+- [Tip for input comparison on stackoverflow](https://stackoverflow.com/questions/38171684/comparing-a-string-against-a-string-read-from-input-does-not-match-in-rust)
 
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
 
-- Item 1
+- Make a method for the repetitive code in the main method.
 - Item 2
 - Item 3
