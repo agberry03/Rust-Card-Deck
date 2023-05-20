@@ -1,7 +1,5 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
 I wrote a program that runs a game of Black Jack between two players.
 The players start with 2 cards, and can hit for more until they pass, get Black Jack,
 or go above Black Jack. Once both players pass, their final scores are compared and a
@@ -10,7 +8,7 @@ winner is declared.
 I wrote this software as an introduction to how the Rust programming language works
 and to become more comfortable with using the Rust language.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=XoDPOtpf3Uw)
 
 # Development Environment
 

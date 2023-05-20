@@ -7,7 +7,7 @@ const BLACK_JACK: usize = 21;
 
 fn main() {
     // Create a new deck.
-    let mut deck = Deck::new();
+    let mut deck = Deck::new(); // Creates a standard 52 card deck.
     // Shuffle the deck.
     deck.shuffle();
 
